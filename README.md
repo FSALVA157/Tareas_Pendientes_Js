@@ -1,9 +1,9 @@
 # Webpack Starter
-Este es el Proyecto inicial para crear aplicaciones utilizando webpack
+Este es un Proyecto de Tareas Pendientes para que utilizo Javascrip, webpack y local Storage
 
 ## Notas:
-Los comandos mas importantes son:
-Reconstruir los módulos de Node
+Parte del curso de aprendizaje de Java Script
+los comandos para reconstruir son:
 ```
 npm install
 ```
